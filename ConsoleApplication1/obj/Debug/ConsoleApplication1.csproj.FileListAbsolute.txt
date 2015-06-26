@@ -1,0 +1,14 @@
+C:\Users\clement.lafleur\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\clement.lafleur\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\clement.lafleur\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\clement.lafleur\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\clement.lafleur\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\clement.lafleur\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+d:\clement.lafleur\Documents\Visual Studio 2013\Projects\EventSourceTest\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+d:\clement.lafleur\Documents\Visual Studio 2013\Projects\EventSourceTest\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+d:\clement.lafleur\Documents\Visual Studio 2013\Projects\EventSourceTest\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+d:\clement.lafleur\Documents\Visual Studio 2013\Projects\EventSourceTest\ConsoleApplication1\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+d:\clement.lafleur\Documents\Visual Studio 2013\Projects\EventSourceTest\ConsoleApplication1\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+d:\clement.lafleur\Documents\Visual Studio 2013\Projects\EventSourceTest\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+d:\clement.lafleur\Documents\Visual Studio 2013\Projects\EventSourceTest\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+d:\clement.lafleur\Documents\Visual Studio 2013\Projects\EventSourceTest\ConsoleApplication1\bin\Debug\ConsoleApplication1.etwManifests.lst
